@@ -18,7 +18,6 @@ public partial class _Default : System.Web.UI.Page
     }
     protected void ShowButton_Click(object sender, EventArgs e)
     {
-        Response.Write("This is a tesing for nothing");
-        Response.Write("This is a testing");
+        //Nothing to do
     }
 }
